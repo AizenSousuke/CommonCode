@@ -6,7 +6,9 @@
         <Nullable>enable</Nullable>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <RootNamespace>TheAccelerator.Library.CommonCode</RootNamespace>
+        <RootNamespace>TheAccelerator.Libraries.CommonCode</RootNamespace>
+        <Authors>Nik</Authors>
+        
     </PropertyGroup>
     <ItemGroup>
         <None Include="README.md" Pack="true" PackagePath=""/>

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheAccelerator.Library.CommonCode", "TheAccelerator.Library.CommonCode.csproj", "{0867584D-ADF7-492B-A0AB-33EEE74D992F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheAccelerator.Libraries.CommonCode", "TheAccelerator.Libraries.CommonCode.csproj", "{0867584D-ADF7-492B-A0AB-33EEE74D992F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

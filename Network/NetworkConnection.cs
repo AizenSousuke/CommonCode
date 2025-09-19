@@ -1,6 +1,6 @@
 ﻿using System.Net;
 using System.Runtime.InteropServices;
-namespace TheAccelerator.Library.Network
+namespace TheAccelerator.Libraries.Network
 {
 	public class NetworkConnection : IDisposable
 	{
